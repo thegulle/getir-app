@@ -11,7 +11,7 @@
 
 ## Screenshot
 
-![Screenshot](/screenshot.png "App screenshot.")
+![Screenshot](/screenshot.PNG "App screenshot.")
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
