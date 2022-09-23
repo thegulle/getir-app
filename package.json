@@ -1,0 +1,45 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "author": {
+    "name": "RNE"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-elements",
+    "react-native-template",
+    "expo"
+  ],
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@react-navigation/bottom-tabs": "^6.4.0",
+    "@react-navigation/drawer": "^6.5.0",
+    "@react-navigation/native": "^6.0.13",
+    "@react-navigation/native-stack": "^6.9.0",
+    "@rneui/base": "github:react-native-elements/react-native-elements#base",
+    "@rneui/themed": "github:react-native-elements/react-native-elements#themed",
+    "expo": "~44.0.0",
+    "expo-status-bar": "~1.2.0",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-native": "0.64.3",
+    "react-native-flatlist-slider": "^1.0.6",
+    "react-native-linear-gradient": "^2.6.2",
+    "react-native-svg": "^13.2.0",
+    "react-native-vector-icons": "^9.2.0",
+    "react-native-web": "0.17.1",
+    "expo-linear-gradient": "~11.0.3",
+    "expo-updates": "~0.11.7"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9"
+  },
+  "private": true
+}
